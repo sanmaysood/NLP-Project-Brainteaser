@@ -1,1 +1,3 @@
 # SemEval 2024 - Brain Teaser Task
+
+We explore various natural language processing (NLP) models on the BRAINTEASER dataset, introduced in SemEval 2024 to evaluate a model's lateral thinking abilities. Our study investigates the efficacy of GloVe-based sequential models, sentence transformers, and state-of-the-art transformer architectures such as RoBERTa and DeBERTa in tackling lat- eral thinking puzzles. Additionally, we explore zero-shot testing using GPT-3.5 to assess its effectiveness in handling unconventional problem-solving tasks. Through extensive experimentation and analysis, we offer insights into the strengths and limitations of current NLP approaches in addressing complex reasoning tasks and provide directions for future research in this domain.
